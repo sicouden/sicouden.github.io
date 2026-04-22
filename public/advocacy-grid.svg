@@ -1,0 +1,22 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Editorial systems poster</title>
+  <desc id="desc">A high contrast editorial grid using black, warm white, blue, and yellow blocks.</desc>
+  <rect width="1200" height="900" fill="#0A0A0A"/>
+  <rect x="64" y="64" width="1072" height="772" fill="#FFFAF0"/>
+  <path d="M64 226H1136M64 388H1136M64 550H1136M64 712H1136M258 64V836M452 64V836M646 64V836M840 64V836M1034 64V836" stroke="#0A0A0A" stroke-width="6"/>
+  <rect x="64" y="64" width="388" height="324" fill="#1F64C8"/>
+  <rect x="840" y="226" width="296" height="162" fill="#FFE600"/>
+  <rect x="258" y="550" width="388" height="286" fill="#0A0A0A"/>
+  <rect x="646" y="388" width="194" height="162" fill="#FFE600"/>
+  <rect x="452" y="64" width="388" height="162" fill="#FFFAF0"/>
+  <rect x="840" y="550" width="296" height="286" fill="#1F64C8"/>
+  <path d="M120 151H396M120 202H396M120 253H300" stroke="#FFFAF0" stroke-width="28"/>
+  <path d="M506 144H742" stroke="#0A0A0A" stroke-width="20"/>
+  <path d="M506 192H690" stroke="#0A0A0A" stroke-width="20"/>
+  <path d="M896 301H1082" stroke="#0A0A0A" stroke-width="24"/>
+  <path d="M704 462H782" stroke="#0A0A0A" stroke-width="24"/>
+  <path d="M314 644H590M314 704H548" stroke="#FFFAF0" stroke-width="28"/>
+  <circle cx="984" cy="690" r="72" fill="#FFFAF0"/>
+  <circle cx="984" cy="690" r="31" fill="#0A0A0A"/>
+  <path d="M64 64H1136V836H64V64Z" stroke="#0A0A0A" stroke-width="14"/>
+</svg>
