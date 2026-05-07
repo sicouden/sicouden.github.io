@@ -96,7 +96,7 @@ export default function HomePage() {
               />
               <figcaption className="grid grid-cols-[1fr_auto] border-x border-b border-ink bg-signal text-ink">
                 <span className="px-3 py-3 text-xs font-black uppercase">
-                  Simon / Parijs / Feb '26
+                  Simon / Parijs / Feb &apos;26
                 </span>
                 <span
                   className="grid w-14 place-items-center border-l border-ink font-mono text-lg font-black"

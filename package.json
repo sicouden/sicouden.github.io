@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": ".tools\\node\\node.exe node_modules/next/dist/bin/next dev",
-    "build": ".tools\\node\\node.exe node_modules/next/dist/bin/next build",
-    "start": ".tools\\node\\node.exe node_modules/next/dist/bin/next start",
-    "lint": ".tools\\node\\node.exe node_modules/eslint/bin/eslint.js app components content lib",
-    "typecheck": ".tools\\node\\node.exe node_modules/typescript/bin/tsc --noEmit"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint app components content lib",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "framer-motion": "^11.18.2",
